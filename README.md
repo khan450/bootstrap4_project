@@ -12,3 +12,12 @@ A simple Bootstrap 4 website for Academy Cinemas, showcasing movie showtimes, ac
 - Images in the `img` directory
 
 ## File Structure
+bootstrap4_project/
+│
+├── index.html
+├── README.md
+└── img/
+    ├── beautyandthebeast.jpg
+    ├── ghostintheshell.jpg
+    ├── kongskullisland.jpg
+    └── pdx.jpg
