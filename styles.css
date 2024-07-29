@@ -1,0 +1,113 @@
+/* styles.css */
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+/* Navbar Styles */
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar .nav-link {
+    color: #fff !important;
+}
+
+/* Jumbotron Styles */
+.jumbotron {
+    background-color: #17a2b8;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.jumbotron h1 {
+    font-size: 3rem;
+}
+
+.jumbotron p {
+    font-size: 1.2rem;
+}
+
+/* About Section */
+#about img {
+    margin-bottom: 20px;
+}
+
+#about h3 {
+    margin-top: 20px;
+}
+
+#about p {
+    margin-bottom: 10px;
+}
+
+/* Showtimes Section */
+.card-title {
+    color: #17a2b8;
+}
+
+.card-text {
+    color: #555;
+}
+
+.card img {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card h6 .badge {
+    margin-right: 5px;
+}
+
+/* Deals Section */
+#deals {
+    margin: 50px 0;
+}
+
+#deals h1 {
+    margin-bottom: 30px;
+}
+
+#deals .form-control {
+    max-width: 400px;
+    margin: 0 auto 20px auto;
+}
+
+#deals .btn {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+/* Footer Styles */
+footer {
+    margin-top: 50px;
+    padding: 20px 0;
+    background-color: #17a2b8;
+    color: #fff;
+}
+
+footer .nav-link {
+    color: #fff !important;
+}
+
+footer .nav-item {
+    margin-right: 10px;
+}body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.jumbotron {
+  margin-bottom: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
